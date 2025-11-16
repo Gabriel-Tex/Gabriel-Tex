@@ -8,7 +8,7 @@
 ### GitHub Stats
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Tex&show_icons=true&count_private=true&hide_border=true&title_color=8F00FF&icon_color=8F00FF&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Teixeira github stats"/> 
-  <img width="41%" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Tex&layout=compact&hide_border=true&title_color=8F00FF&text_color=8F00FF&bg_color=0d1117" />
+  <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Tex&layout=compact&hide_border=true&title_color=8F00FF&text_color=8F00FF&bg_color=0d1117" />
 </div>
 
 ---
