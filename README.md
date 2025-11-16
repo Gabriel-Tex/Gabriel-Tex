@@ -1,16 +1,46 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F00FF&height=120&section=header"/>
 
-<!--
-**Gabriel-Tex/Gabriel-Tex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+  Me chamo **Gabriel Teixeira** e atualmente sou estudante de **Ciência da Computação** na Universidade Federal do Ceará no quarto semestre de graduação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Tex&show_icons=true&count_private=true&hide_border=true&title_color=8F00FF&icon_color=8F00FF&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Teixeira github stats"/> 
+  <img width="41%" height="151px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Tex&layout=compact&hide_border=true&title_color=8F00FF&text_color=8F00FF&bg_color=0d1117" />
+</div>
+
+---
+
+### Social Media:
+<div>  
+<a href="https://www.instagram.com/_gabrieltqd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
+ 
+### Main skills:
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+ 
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+ 
+<!-- ### Other Knowledge: -->
+  
+### Studying in this moment:
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
+![LateX](https://img.shields.io/badge/-latex-0D1117?style=for-the-badge&logo=latex&labelColor=0D1117&textColor=0D1117)&nbsp;
+<!-- <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<br></div> -->
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F00FF&height=120&section=footer"/>
+
