@@ -34,7 +34,7 @@
 <!-- ### Other Knowledge: -->
   
 ### Studying in this moment:
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-sql-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![LateX](https://img.shields.io/badge/-latex-0D1117?style=for-the-badge&logo=latex&labelColor=0D1117&textColor=0D1117)&nbsp;
 <!-- <div align="center">
