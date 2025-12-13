@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F00FF&height=120&section=header"/>
 
 ### About me
-  Me chamo **Gabriel Teixeira** e atualmente sou estudante de **Ciência da Computação** na Universidade Federal do Ceará durante o quarto semestre de graduação.
+  Me chamo **Gabriel Teixeira** e atualmente sou estudante de **Ciência da Computação** na Universidade Federal do Ceará durante o quarto semestre de graduação, tenho muito interesse nas áreas de Algoritmos e desenvolvimento de software, principalmente backend.
 
 ---
 
