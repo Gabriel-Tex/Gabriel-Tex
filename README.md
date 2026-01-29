@@ -5,20 +5,6 @@
 
 ---
 
-### GitHub Stats
-<div align="center">  
-  <img width="49%" height="170px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Tex&show_icons=true&count_private=true&hide_border=true&title_color=8F00FF&icon_color=8F00FF&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Teixeira github stats"/> 
-</div>
-
-<!--
-### Most Used Languages
-<div align="center">  
-  <img width="41%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Tex&layout=compact&hide_border=true&title_color=8F00FF&text_color=8F00FF&bg_color=0d1117" />
-</div>
--->
-
----
-
 ### Main skills:
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
