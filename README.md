@@ -28,7 +28,7 @@
 ### Studying in this moment:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=purple&labelColor=0D1117)&nbsp;
 ![javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=purple&labelColor=0D1117)&nbsp;
-![html5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=purple&labelColor=0D1117)&nbsp;
+![html](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&logoColor=purple&labelColor=0D1117)&nbsp;
 ![css](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css&logoColor=purple&labelColor=0D1117)&nbsp;
 ![godot](https://img.shields.io/badge/-godot%20engine-0D1117?style=for-the-badge&logo=godotengine&logoColor=blue&labelColor=0D1117)&nbsp;
 
