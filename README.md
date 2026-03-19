@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F00FF&height=120&section=header"/>
 
 ### About me
-  My name is **Gabriel Teixeira**, and I am currently a **Computer Science student** at the Federal University of Ceará, in my fifth semester of undergraduate studies. I have a strong interest in the areas of algorithm design and analysis, as well as software development. I am currently focused on becoming a full-stack web developer and a Java backend developer.
+  My name is **Gabriel Teixeira**, and I am currently a **Computer Science student** at the Federal University of Ceará, in my fifth semester of undergraduate studies. I have a strong interest in the areas of algorithm design and analysis, as well as software development. I am currently focused on becoming a full-stack web developer.
 
 ---
 
