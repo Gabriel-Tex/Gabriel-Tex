@@ -6,15 +6,16 @@
 ---
 
 ### Main skills:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=purple&labelColor=0D1117)&nbsp;
+![javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=purple&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![html](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&logoColor=purple&labelColor=0D1117)&nbsp;
 ![css](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css&logoColor=purple&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=purple&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-sql-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
 ### Other knowledge:
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![LateX](https://img.shields.io/badge/-latex-0D1117?style=for-the-badge&logo=latex&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
@@ -29,11 +30,9 @@
 <!-- ### Other Knowledge: -->
   
 ### Studying in this moment:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=purple&labelColor=0D1117)&nbsp;
 ![javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=purple&labelColor=0D1117)&nbsp;
 ![html](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&logoColor=purple&labelColor=0D1117)&nbsp;
 ![css](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css&logoColor=purple&labelColor=0D1117)&nbsp;
-![godot](https://img.shields.io/badge/-godot%20engine-0D1117?style=for-the-badge&logo=godotengine&logoColor=blue&labelColor=0D1117)&nbsp;
 
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
