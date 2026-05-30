@@ -2,17 +2,17 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 Olá! I'm **Gabriel Teixeira**, a Computer Science student at **Universidade Federal do Ceará (UFC)** — currently in my 5th semester. I have a strong interest in software engineering, web development, and algorithm design. My focus right now is becoming a solid **fullstack web developer**.
 
-- 🎓 B.Sc. in Computer Science @ UFC (2024 – present)
-- 🌐 Focused on **Fullstack Web Development** (React · Node.js · Express)
-- 📍 Fortaleza, Ceará, Brazil
+- B.Sc. in Computer Science @ UFC (2024 – present)
+- Focused on **Fullstack Web Development** (React · Node.js · Express)
+- Fortaleza, Ceará, Brazil
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=A855F7&labelColor=0D1117)
@@ -40,7 +40,7 @@ Olá! I'm **Gabriel Teixeira**, a Computer Science student at **Universidade Fed
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Gabriel-Tex&theme=transparent&hide_border=true&stroke=A855F7&ring=A855F7&fire=ffffff&currStreakLabel=A855F7&sideLabels=ffffff&dates=888888&background=0D1117"/>
@@ -48,7 +48,7 @@ Olá! I'm **Gabriel Teixeira**, a Computer Science student at **Universidade Fed
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
 <div align="center">
 
