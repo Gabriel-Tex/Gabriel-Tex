@@ -7,7 +7,7 @@
 Olá! I'm **Gabriel Teixeira**, a Computer Science student at **Universidade Federal do Ceará (UFC)** — currently in my 5th semester. I have a strong interest in software engineering, web development, and algorithm design. My focus right now is becoming a solid **fullstack web developer**.
 
 - B.Sc. in Computer Science @ UFC (2024 – present)
-- Focused on **Fullstack Web Development** (React · Node.js · Express)
+- Focused on **Fullstack Web Development** (React · Node.js · Express · Docker · SQL)
 - Fortaleza, Ceará, Brazil
 
 ---
@@ -37,6 +37,8 @@ Olá! I'm **Gabriel Teixeira**, a Computer Science student at **Universidade Fed
 ![VSCode](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7&labelColor=0D1117)
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=A855F7&labelColor=0D1117)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=A855F7&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=A855F7&labelColor=0D1117)
+
 
 ---
 
