@@ -57,4 +57,4 @@ Olá! I'm **Gabriel Teixeira**, a Computer Science student at **Universidade Fed
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7e22ce,100:3b0764&height=100&section=footer"/>
