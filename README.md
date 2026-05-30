@@ -4,7 +4,7 @@
 
 ## 👤 About Me
 
-Olá! I'm **Gabriel Teixeira**, a Computer Science student at **Universidade Federal do Ceará (UFC)** — currently in my 5th semester. I have a strong interest in software engineering, web development, and algorithm design. My focus right now is becoming a solid **fullstack web developer**, working with modern JavaScript ecosystems on both the front and back end.
+Olá! I'm **Gabriel Teixeira**, a Computer Science student at **Universidade Federal do Ceará (UFC)** — currently in my 5th semester. I have a strong interest in software engineering, web development, and algorithm design. My focus right now is becoming a solid **fullstack web developer**.
 
 - 🎓 B.Sc. in Computer Science @ UFC (2024 – present)
 - 🌐 Focused on **Fullstack Web Development** (React · Node.js · Express)
