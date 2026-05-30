@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,50:7e22ce,100:a855f7&height=140&section=header&text=Gabriel%20Teixeira&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Fullstack%20Web%20Developer%20%C2%B7%20Computer%20Science%20%C2%B7%20UFC&descSize=16&descAlignY=78&animation=fadeIn"/>
 
----
-
 ## About Me
 
 Olá! I'm **Gabriel Teixeira**, a Computer Science student at **Universidade Federal do Ceará (UFC)** — currently in my 5th semester. I have a strong interest in software engineering, web development, and algorithm design. My focus right now is becoming a solid **fullstack web developer**.
@@ -9,8 +7,6 @@ Olá! I'm **Gabriel Teixeira**, a Computer Science student at **Universidade Fed
 - B.Sc. in Computer Science @ UFC (2024 – present)
 - Focused on **Fullstack Web Development** (React · Node.js · Express · Docker · SQL)
 - Fortaleza, Ceará, Brazil
-
----
 
 ## Tech Stack
 
@@ -39,16 +35,11 @@ Olá! I'm **Gabriel Teixeira**, a Computer Science student at **Universidade Fed
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=A855F7&labelColor=0D1117)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=A855F7&labelColor=0D1117)
 
-
----
-
 ## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Gabriel-Tex&theme=transparent&hide_border=true&stroke=A855F7&ring=A855F7&fire=ffffff&currStreakLabel=A855F7&sideLabels=ffffff&dates=888888&background=0D1117"/>
 </div>
-
----
 
 ## Get in Touch
 
